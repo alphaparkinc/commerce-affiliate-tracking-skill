@@ -1,0 +1,17 @@
+﻿{
+    "version":  "1.0.0",
+    "name":  "commerce-affiliate-tracking-skill",
+    "outputs":  {
+                    "result_val":  {
+                                       "type":  "string"
+                                   }
+                },
+    "description":  "Commerce affiliate conversion tracking and commission management skill.",
+    "inputs":  {
+                   "input_val":  {
+                                     "type":  "string"
+                                 }
+               },
+    "author":  "alphaparkinc",
+    "prompt":  "Coordinate commerce-affiliate-tracking-skill operations using the input configurations."
+}
