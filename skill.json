@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "name": "commerce-affiliate-tracking-skill",
+  "name": "genpark-commerce-affiliate-tracking-skill",
   "outputs": {
     "result_val": {
       "type": "string"
