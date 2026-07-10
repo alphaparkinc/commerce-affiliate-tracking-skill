@@ -1,4 +1,4 @@
-# commerce-affiliate-tracking-skill
+# genpark-commerce-affiliate-tracking-skill
 
 > **GenPark AI Agent Skill** -- ﻿
 
